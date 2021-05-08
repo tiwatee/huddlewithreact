@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/huddlewithreact/static/css/main.76f176c7.chunk.css",
+    "main.js": "/huddlewithreact/static/js/main.f363afb7.chunk.js",
+    "main.js.map": "/huddlewithreact/static/js/main.f363afb7.chunk.js.map",
+    "runtime-main.js": "/huddlewithreact/static/js/runtime-main.e62eb570.js",
+    "runtime-main.js.map": "/huddlewithreact/static/js/runtime-main.e62eb570.js.map",
+    "static/js/2.fc30760d.chunk.js": "/huddlewithreact/static/js/2.fc30760d.chunk.js",
+    "static/js/2.fc30760d.chunk.js.map": "/huddlewithreact/static/js/2.fc30760d.chunk.js.map",
+    "static/js/3.4806ceba.chunk.js": "/huddlewithreact/static/js/3.4806ceba.chunk.js",
+    "static/js/3.4806ceba.chunk.js.map": "/huddlewithreact/static/js/3.4806ceba.chunk.js.map",
+    "index.html": "/huddlewithreact/index.html",
+    "static/css/main.76f176c7.chunk.css.map": "/huddlewithreact/static/css/main.76f176c7.chunk.css.map",
+    "static/js/2.fc30760d.chunk.js.LICENSE.txt": "/huddlewithreact/static/js/2.fc30760d.chunk.js.LICENSE.txt",
+    "static/media/illustration-mockups.264994a5.svg": "/huddlewithreact/static/media/illustration-mockups.264994a5.svg",
+    "static/media/logo.2b3c07e4.svg": "/huddlewithreact/static/media/logo.2b3c07e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e62eb570.js",
+    "static/js/2.fc30760d.chunk.js",
+    "static/css/main.76f176c7.chunk.css",
+    "static/js/main.f363afb7.chunk.js"
+  ]
+}
