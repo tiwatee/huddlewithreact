@@ -38,3 +38,85 @@ main button{
   color: purple;
   width: 40%;
 }
+main button:hover{
+  color: white;
+  background-color:  hsl(300, 69%, 71%);
+}
+footer{
+  float: right;
+  font-size: 1em;
+  margin: 2em 0;
+}
+footer i{
+  margin: 0 0.5em;
+  border:solid 1px white;
+  background: none;
+  padding: 6px 8px;
+  border-radius: 100% 100%;
+  color: white;
+}
+i:hover{
+  color: hsl(300, 69%, 71%);
+  border-color: hsl(300, 69%, 71%);
+}
+
+@media only screen and (max-width:900px) /*and (orientation:portrait)*/ {
+  body{
+    padding: 2em;
+  }
+  header img{
+    width: 30%;
+  }
+  main {
+    flex-direction:column;
+    margin-top: 1em;
+  }
+  main img{
+    width: 100%;
+  }
+  .content{
+    width: 100%;
+  }
+  .content h2{
+    font-size: 25px;
+  }
+
+  main button{
+    padding: 0.8em;
+  }
+  footer{
+    margin: 1em 0;
+  }
+  footer i:hover{
+    color: hsl(300, 69%, 71%);
+    border-color: hsl(300, 69%, 71%);
+  }
+  
+}
+@media only screen and (max-width:900px) and (orientation:landscape) {
+  body{
+    padding: 3em;
+  }
+  main {
+    flex-direction:column;
+  }
+  main button{
+    padding: 1em;
+    width: 30%;
+  }
+}
+@media only screen and (min-width:768px) and (orientation:portrait) {
+  body{
+    padding: 3em;
+  }
+  /* main {
+    flex-direction:column;
+  } */
+  .content h2{
+    font-size: 35px;
+  }
+  main button{
+    padding: 1em;
+    width: 30%;
+  }
+}

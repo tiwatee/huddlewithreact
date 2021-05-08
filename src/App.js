@@ -22,9 +22,9 @@ function App() {
         </div>
       </main>
       <footer>
-      <i class="fa fa-facebook"></i>
-      <i class="fa fa-twitter"></i>
-      <i class="fa fa-instagram"></i>
+      <i className="fa fa-facebook"></i>
+      <i className="fa fa-twitter"></i>
+      <i classn="fa fa-instagram"></i>
       </footer>
     </div>
   );
